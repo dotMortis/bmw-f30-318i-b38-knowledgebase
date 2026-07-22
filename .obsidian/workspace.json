@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "74edd80d1ac9f003",
+    "type": "split",
+    "children": [
+      {
+        "id": "9522a912f4277429",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46ad6682de0e74d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Technische Daten/Reifen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reifen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d17ffcbdd1c0b6ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6c291a63f334806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5a6b61f9142853",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "acca698863ae2f39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ea7d7563873c6645",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d9ae2bae32193b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cc11418866a06ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab221f307957716b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "b1248e7526030fe3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "17ad7b378087d5c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b7fc5b13da8200ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fd6a72f5db562132",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "46ad6682de0e74d9",
+  "lastOpenFiles": [
+    "02 - Wartung/Motoröl & Filter.md",
+    "02 - Wartung/Motorsteuerung.md",
+    "02 - Wartung/Wartungsplan.md",
+    "02 - Wartung/Differentialöl.md",
+    "02 - Wartung/Einlassventil.md",
+    "02 - Wartung/Getriebeöl & Filter.md",
+    "02 - Wartung/Innenraumluftfilter.md",
+    "02 - Wartung/Kühlmittel.md",
+    "02 - Wartung/Motorluftfilter.md",
+    "04 - Coding/Getätigte Codierungen.md",
+    "04 - Coding/BimmerCode.md",
+    "03 - Diagnose/BimmerLink.md",
+    "04 - Coding/Coding.md",
+    "03 - Diagnose/Diagnose.md",
+    "05 - Fahrzeughilfen/Externe Links.md",
+    "05 - Fahrzeughilfen/OBD2 Adapter.md",
+    "05 - Fahrzeughilfen/Shops.md",
+    "Fahrzeugübersicht.md",
+    "01 - Technische Daten/Reifen.md",
+    "01 - Technische Daten/Motor B38.md",
+    "01 - Technische Daten/Getriebe.md",
+    "01 - Technische Daten/Fahrleistungen.md",
+    "01 - Technische Daten/Elektrik.md",
+    "01 - Technische Daten/Abmessungen & Gewichte.md",
+    "Live-Daten.md",
+    "04 - Coding/Verfügbare Codierungen.md",
+    "Shops",
+    "04 - Coding & Programmierung/BimmerCode",
+    "03 - Diagnose & OBD/BimmerLink",
+    "07 - Diagnose & OBD/sed52fBqg"
+  ]
+}
