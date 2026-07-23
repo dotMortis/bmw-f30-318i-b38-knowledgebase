@@ -55,6 +55,11 @@ ___
 	 1 Kurbelwellendrehwerkzeug, zu verwenden wie OEM 116480
 	 1 Steckschlüssel Innentorx T60 für Zylinderkopfschrauben
 	 1 Zapfenschlüssel für die Nockenwellenversteller, zu verwenden wie OEM 2 360 895
+
+### Kits zum kaufen
+- [Steuerkettensatz](https://www.autodoc.de/ina/21914028)
+- [Ölpumpenantrieb](https://www.autodoc.de/febi-bilstein/9807436)
+- [VENOS](https://www.autodoc.de/ina/21913928)
 ___
 Siehe auch:
 - [[Einkaufsliste]]
