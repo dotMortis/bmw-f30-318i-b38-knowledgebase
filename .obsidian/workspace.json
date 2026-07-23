@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9522a912f4277429",
+        "id": "91bc6b1d7461458a",
         "type": "tabs",
         "children": [
           {
-            "id": "46ad6682de0e74d9",
+            "id": "e322262bfc0eae7c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/main.js",
-                "bFile": ".obsidian/plugins/obsidian-git/main.js",
-                "aRef": ""
+                "file": "01 - Technische Daten/Getriebe.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: main.js  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Getriebe"
             }
           }
         ]
@@ -156,27 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "01 - Technische Daten/Getriebe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "f64e64eb7bda06bf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Getriebe"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f64e64eb7bda06bf",
+  "active": "e322262bfc0eae7c",
   "lastOpenFiles": [
     "02 - Wartung/Motorsteuerung.md",
     "02 - Wartung/Einkaufsliste.md",
