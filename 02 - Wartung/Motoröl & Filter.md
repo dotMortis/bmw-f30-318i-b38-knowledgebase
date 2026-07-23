@@ -1,4 +1,4 @@
-Wartungsinterval: **~15k km**
+Wartungsintervall: **~15k km**
 ___
 ## Motoröl
 Füllmenge: **~4,25 Liter**
@@ -33,3 +33,4 @@ Siehe auch:
 - [[Einkaufsliste]]
 - [[Wartungsplan]]
 - [[Motor B38]]
+- [[Motorluftfilter]]

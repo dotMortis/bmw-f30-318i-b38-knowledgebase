@@ -1,5 +1,5 @@
 [83222339221](https://de.bmwfans.info/parts-catalog/F30N/Europe/318i-B38/L-N/2016/browse/manual_transmission/manual_transmission_gs6_17ag/)
-Wartungsinterval: **~80k km**
+Wartungsintervall: **~80k km**
 ___
 Füllmenge: **~1,4 Liter**
 

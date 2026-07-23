@@ -1,5 +1,6 @@
 {
   "cssTheme": "Catppuccin",
-  "textFontFamily": "AtkynsonMono Nerd Font Mono",
-  "monospaceFontFamily": "AtkynsonMono Nerd Font Mono"
+  "textFontFamily": "AtkynsonMono Nerd Font Mono,SpaceMono Nerd Font Mono",
+  "monospaceFontFamily": "AtkynsonMono Nerd Font Mono,SpaceMono Nerd Font Mono",
+  "interfaceFontFamily": "SpaceMono Nerd Font Mono"
 }

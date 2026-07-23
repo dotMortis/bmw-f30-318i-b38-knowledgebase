@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Wartung/Motorsteuerung.md",
+                "file": "01 - Technische Daten/Reifen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motorsteuerung"
+              "title": "Reifen"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "youtu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Wartung/Motorsteuerung.md",
+                "file": "01 - Technische Daten/Reifen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Motorsteuerung"
+              "title": "Outline of Reifen"
             }
           }
         ],
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +186,18 @@
   },
   "active": "e322262bfc0eae7c",
   "lastOpenFiles": [
+    "02 - Wartung/Einkaufsliste.md",
+    "02 - Wartung/Motorsteuerung.md",
+    "02 - Wartung/Turbolader.md",
+    "02 - Wartung/Wartungsplan.md",
+    "02 - Wartung/Bremsflüssigkeit.md",
+    "02 - Wartung/Kühlmittel.md",
+    "02 - Wartung/Motorluftfilter.md",
     "02 - Wartung/Motoröl & Filter.md",
     "02 - Wartung/Zündung.md",
-    "02 - Wartung/Wartungsplan.md",
-    "02 - Wartung/Motorsteuerung.md",
+    "02 - Wartung/Einlassventil.md",
+    "02 - Wartung/Innenraumluftfilter.md",
+    "02 - Wartung/Getriebeöl.md",
     "06 - Homework/Sexy.md",
     "assets/kotfluelgel-01.png",
     "assets/außenspiegel-01.png",
@@ -197,13 +206,6 @@
     "assets",
     "01 - Technische Daten/Getriebe.md",
     "06 - Homework",
-    "02 - Wartung/Einkaufsliste.md",
-    "02 - Wartung/Einlassventil.md",
-    "02 - Wartung/Motorluftfilter.md",
-    "02 - Wartung/Kühlmittel.md",
-    "02 - Wartung/Innenraumluftfilter.md",
-    "02 - Wartung/Getriebeöl.md",
-    "02 - Wartung/Bremsflüssigkeit.md",
     "02 - Wartung/Differentialöl.md",
     "01 - Technische Daten/Motor B38.md",
     "01 - Technische Daten/Fahrleistungen.md",

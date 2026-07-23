@@ -1,4 +1,4 @@
-Wartungsinterval: **80k - 100k km**
+Wartungsintervall: **80k - 100k km**
 ___
 Oh boy hier wirds teuer.
 Einfach alles aufgelistete tauschen wenns soweit ist.
