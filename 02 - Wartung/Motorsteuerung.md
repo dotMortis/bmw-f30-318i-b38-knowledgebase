@@ -59,7 +59,7 @@ ___
 ### Kits zum kaufen
 - [Steuerkettensatz](https://www.autodoc.de/ina/21914028)
 - [Ölpumpenantrieb](https://www.autodoc.de/febi-bilstein/9807436)
-- [VENOS](https://www.autodoc.de/ina/21913928)
+- [VANOS](https://www.autodoc.de/ina/21913928)
 ___
 Siehe auch:
 - [[Einkaufsliste]]

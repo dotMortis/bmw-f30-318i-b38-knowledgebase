@@ -10,7 +10,8 @@ https://www.autodoc.de/basket
 - [Zündkerzen](https://www.autodoc.de/ngk/12775575)
 - [Steuerkettensatz](https://www.autodoc.de/ina/21914028)
 - [Ölpumpenantrieb](https://www.autodoc.de/febi-bilstein/9807436)
-- 2*[VENOS](https://www.autodoc.de/ina/21913928)
+- 2*[VANOS](https://www.autodoc.de/ina/21913928)
+- [Nussgranulat](https://amzn.eu/d/06lsbbeZ)
 
 Amazon:
 - [Ölpumpe für Getriebe](https://amzn.eu/d/02EZntt0)
