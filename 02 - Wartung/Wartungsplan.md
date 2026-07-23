@@ -3,4 +3,6 @@ Dokumentation der Wartungsintervalle und durchgeführten Wartungsarbeiten.
 
 ---
 
-*Noch keine Einträge.*
+___
+Siehe auch:
+- [[Einkaufsliste]]

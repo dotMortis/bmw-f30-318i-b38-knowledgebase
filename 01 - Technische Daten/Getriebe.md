@@ -12,5 +12,5 @@ Siehe auch:
 - [[Shops]]
 - [[Fahrzeugübersicht]]
 - Wartung
-	- [[Getriebeöl & Filter]]
+	- [[Getriebeöl]]
 	- [[Differentialöl]]

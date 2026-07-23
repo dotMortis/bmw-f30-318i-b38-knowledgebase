@@ -20,3 +20,4 @@ Persoenliche Wissensdatenbank für Wartung, Technik und Reparaturen meines BMW F
 ___
 - [[Shops]]
 - [[Externe Links]]
+- [[Wartungsplan]]
