@@ -10,7 +10,7 @@ ___
 
 - *DOT 4 LV* (Betonung liegt auf LV)
 
-**Öl-Empfehlung**
+**Flüssigkeit-Empfehlung**
 - [MPM DOT 4+ LV DOT 4 LV 20500LV](https://www.autodoc.de/mpm/19118899)
 ___
 Siehe auch:
